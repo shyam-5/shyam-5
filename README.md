@@ -16,10 +16,7 @@
 
 <h1>Snake Game</h1>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
+
   <style>
   html, body {
     height: 100%;
@@ -183,4 +180,3 @@ document.addEventListener('keydown', function(e) {
 requestAnimationFrame(loop);
 </script>
 </body>
-</html>
